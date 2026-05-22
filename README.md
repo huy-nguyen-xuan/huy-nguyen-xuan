@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm huy-nguyen-xuan 👋
+Systems enthusiast with a knack for low-level programming.
 
-<!--
-**huy-nguyen-xuan/huy-nguyen-xuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I'm a developer based in New Zealand with over 5 years of experience in systems programming. I enjoy diving deep into the inner workings of software and hardware, often getting lost in the details.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+- ⚡ C
+- 🔍 C++
+- 🖥️ Rust
+- 🔧 Assembly
+- 🐍 Python
+- 📦 Docker
+- 🌐 Linux
+- 📊 Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently
+Working on a personal project focused on optimizing embedded systems.
